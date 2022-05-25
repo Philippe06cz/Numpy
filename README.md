@@ -1,3 +1,3 @@
 # Numpy
 for numpy examples
-D'anord vous devez installer pip numlpy 
+D'abord vous devez installer pip numpy sur terminate
